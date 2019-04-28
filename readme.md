@@ -10,8 +10,8 @@ Dashboard for internal operations
 
 ## Getting Started
 
-###Installation Prerequisites
-php version
+### Installation Prerequisites
+php version >
 
 
 ### Installing
